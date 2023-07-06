@@ -1,3 +1,9 @@
+This string class is an early version of a
+
+string class I wrote
+
+
+
 # This repository contains all the coding projects
 # I could find from before January 2023.
 #
