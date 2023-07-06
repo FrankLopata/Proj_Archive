@@ -1,4 +1,4 @@
-SetList does the functions of std::set
+SetList does the basic functions of std::set
 
 
 # This repository contains all the coding projects
