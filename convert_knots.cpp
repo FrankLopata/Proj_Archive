@@ -10,3 +10,4 @@ cin>>knots;
 cout<< knots_to_miles_per_minute(knots)<<endl;
 return 0;
 }
+
