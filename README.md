@@ -9,7 +9,7 @@ exact change. For example, Coins cannot convert a quarter into 2 dimes
 and 1 nickel.
 
 
-word_count reads words from a file named sample_doc.txt - one at a time - and counts
+Word_Count reads words from a file named sample_doc.txt - one at a time - and counts
 
 the frequency of each word, but ignores all stop words in a file named stopwords.txt. It 
 
