@@ -1,6 +1,9 @@
 Class Coins contains 4 counters to track how many of each coin denomination it contains, 
+
 because Coins cannot remove more than it holds of any denomination, so coins can be removed 
+
 from the holder only if there is enough of each denomination to make
+
 exact change. For example, Coins cannot convert a quarter into 2 dimes
 and 1 nickel.
 ///
