@@ -1,0 +1,13 @@
+count 1
+detected 1
+file 1
+for 1
+frequency 1
+mapset 2
+program 2
+sample 1
+test 1
+text 1
+this 1
+used 1
+words 1
